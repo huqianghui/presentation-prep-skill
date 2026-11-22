@@ -1,0 +1,11 @@
+{
+  "name": "presentation-prep",
+  "owner": { "name": "huqianghui" },
+  "plugins": [
+    {
+      "name": "presentation-prep",
+      "source": "./",
+      "description": "PPT 生成之前的前置 skill：和你一起把演讲的目的、听众、主线、结构、开场和串联梳理清楚，再交给 PPT 生成 skill。"
+    }
+  ]
+}

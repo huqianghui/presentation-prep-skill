@@ -1,0 +1,7 @@
+{
+  "name": "presentation-prep",
+  "description": "PPT 生成之前的前置 skill：按魏斯曼《演讲大师课》的方法分阶段讨论梳理演讲（目的、听众、主线问题、石柱、结构、开场、串联），产出简报和逐页大纲，也能审稿已有 PPT。",
+  "version": "1.0.0",
+  "author": { "name": "huqianghui" },
+  "license": "MIT"
+}
