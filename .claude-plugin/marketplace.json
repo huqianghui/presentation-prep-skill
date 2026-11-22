@@ -1,6 +1,9 @@
 {
   "name": "presentation-prep",
-  "owner": { "name": "huqianghui" },
+  "description": "PPT 生成之前的前置 skill：按魏斯曼《演讲大师课》和你一起梳理演讲，再交给 PPT 生成 skill。",
+  "owner": {
+    "name": "huqianghui"
+  },
   "plugins": [
     {
       "name": "presentation-prep",
